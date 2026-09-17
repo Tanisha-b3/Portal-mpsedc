@@ -1,0 +1,6 @@
+@MpsedcPortal_HostAddress = http://localhost:5279
+
+GET {{MpsedcPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,27 @@
+## Home
+$HOME/
+
+## Blog (excluded)
+blog/
+
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+packages/
+*.nupkg
+
+## IDE
+.idea/
+.vscode/
+*.sw?
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
